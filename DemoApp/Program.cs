@@ -9,7 +9,7 @@ namespace DemoApp
             // Set the message
             String message = "Hello NYC .NET Hacktoberfest!";
 
-            // Print out the message 5 times
+            // Print out the message 10 times
             for(int i = 0; i < 10; i++) {
                 Console.WriteLine(message);
             }
